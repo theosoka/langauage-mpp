@@ -1,0 +1,15 @@
+Irene Martinez Gamba (* 1957) ist eine argentinisch-US-amerikanische Mathematikerin und Hochschullehrerin an der University of Texas at Austin.
+
+Irene Gamba studierte an der Universität Buenos Aires mit dem Lizenziat in Mathematik 1981 und an der University of Chicago mit dem Master-Abschluss 1985. Sie wurde 1989 an der Universität Chicago bei Jim Douglas junior promoviert ( Asymptotic Behavior at the Boundary of a Semiconductor Device in Two Space Dimensions)[1]. Als Post-Doktorandin war sie an der Purdue University, am College of New Jersey (Assistant Professor 1991/92) und am Courant Institute, wo sie bei Cathleen Synge Morawetz war und 1994 wurde sie Assistant Professor und 1996 Associate Professor wurde. Ab 1997 war sie Professorin an der University of Texas at Austin. Sie ist dort am ICES (Institute for Computational Engineering and Science) und Center for Numerical Analysis und Gruppenleiterin in der Abteilung für Angewandte Mathematik (seit 2007).
+
+2007 bis 2013 war sie Joe B. and Louise Cook Professor in Mathematik an der University of Texas, 2013/14 John T. Stuart III Centennial Professor und seit 2014 ist sie W.A. Tex Moncreif, Jr. Professor in Computational Engineering and Sciences III.
+
+Sie befasst sich mit numerischer und angewandter Analysis, mathematischer und statistischer Physik und nichtlinearen kinetischen Gleichungen und partiellen Differentialgleichungen und Integro-Differentialgleichungen (Modellierung statistischer Flüsse).
+
+Zu den von ihr behandelten Anwendungen zählen kinetische Modelle für Teilchenschwärme in sozialer Dynamik (wechselwirkende soziale Systeme), die Boltzmanngleichung und verschiedene meso- und makroskopische Näherungen in der Hydro- und Gasdynamik. Außerdem Anwendungen in der Plasmaphysik, auf granulare Flüsse und transiente und schnelle Dynamik in Halbleitern wie bei der Modellierung von Solarzellen. Sie entwickelte deterministische numerische Modelle für kinetische Flüsse und befasste sich mit konservativen Spektralmethoden, diskontinuierlichen Galerkin-Methoden und gewichtete wesentlich nichtoszillierende Methoden (WENO, weighted essentially non-oscillatory) für nichtlineare Kollisions-Flüsse.
+
+Sie gehört zum Herausgebergremium des Bulletin of the American Mathematical Society (2016).
+
+Sie hat die argentinische und US-amerikanische Staatsbürgerschaft.
+
+2013 wurde sie Fellow der Japan Society for the Promotion of Science, ist seit 2012 SIAM Fellow und seit 2013 Fellow der American Mathematical Society. 2014 hielt sie die Sofia Kovalevsky Lecture der Association for Women in Mathematics.

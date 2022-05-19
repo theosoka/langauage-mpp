@@ -1,0 +1,10 @@
+Der Rechner verfügte über zwei Zilog Z80 Prozessoren mit einer Taktfrequenz von je 2 MHz und arbeitete mit den Betriebssystemen HDOS und CP/M. Einer der Prozessoren war für die Terminalfunktionen zuständig[3]. Er vereinigte einen 12"-CRT-Monitor, Tastatur und Diskettenlaufwerke in einem Gehäuse. Die Diskettenlaufwerke waren an einem Controller für hartsektorierte Disketten angeschlossen und verarbeiteten hartsektorierte 5,25"-Disketten mit einer Kapazität von 100 kB.
+
+Als Zubehör wurden verschiedene Diskettenstationen angeboten:
+
+Die Modelle H/Z-77 und H/Z-87 stellten zwei zusätzliche Diskettenlaufwerke zur Verfügung. Angeschlossen an den Controller für hartsektorierte Laufwerke konnten damit 100 kB auf eine Diskette geschrieben werden. Mit dem Controller für softsektorierte Laufwerke ermöglichten sie eine Kapazität von 160 kB pro Diskette.
+Das Modell H/Z-37 beinhaltete ebenfalls zwei Laufwerke und unterstützte eine Kapazität von 640 kB pro Diskette. Ein Controller für softsektorierte Laufwerke war hierfür notwendig.
+Das Z-47 bestand aus zwei 8"-Diskettenlaufwerken und benötigte einen eigenen Controller.
+Im Z-67 war neben einem 8"-Diskettenlaufwerk eine 10 MB große Festplatte eingebaut. Auch dieses Gerät benötigte einen eigenen Controller.
+Modelle
+Neben dem Grundmodell waren verschiedene Variationen erhältlich. Ohne Diskettenlaufwerke, jedoch mit einem Datasetteninterface wurde er als Version H88 verkauft. Unter der Bezeichnung H19 verkaufte Heathkit ein Terminal, das durch ein Upgradekit zu einem H89 ausgebaut werden konnte. Das Modell H90 verfügte statt der im H89 verbauten Diskettenlaufwerke über Laufwerke, die softsektorierte Disketten mit einer Kapazität von 640 kB verarbeiten konnten sowie über den dafür notwendigen Controller[4].
